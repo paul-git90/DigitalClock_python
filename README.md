@@ -21,7 +21,7 @@ Digital_Clock/
   - clockDigital.py - am dezvoltat functionalitatea pentru a rula aplicatia
 - app.py - in acest fisier vom rula aplicatia
 
-### 2. Tehnolohii si Tool-uri utilizate
+### 2. Tehnologii si Tool-uri utilizate
 - Python
 - PyCharm
 
