@@ -26,5 +26,4 @@ ClockDigitalApp14/
 │   └── clockDigital.py  # Modul care transformă ora în cifre digitale din caractere
 │
 └── app.py  # Fisierul principal pentru a rula aplicația
-
 ```
